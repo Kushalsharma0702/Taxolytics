@@ -32,7 +32,7 @@
 ## ✨ Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS  
-- **UI Design Tool:** [Bolt.new](https://bolt.new)  
+- **UI Design Tool:** Figma
 - **Animations:** LottieFiles + SVG motion  
 - **Version Control:** Git + GitHub  
 - **Deployment:** Netlify
